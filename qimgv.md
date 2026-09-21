@@ -1,4 +1,4 @@
-**Q:** qimgv image fit and fit on window not working
+**Q:** qimgv image fit as fit on window not working
 
 **Ans:** if fit to window" is not working in [qimgv](https://github.com/easymodo/qimgv/issues/578), it is often caused by display scaling issues in Qt6 or window size miscalculations on startup.
 
